@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /* main print out as string in stdout and return value to 0 if successful
  */
 int main(void)
