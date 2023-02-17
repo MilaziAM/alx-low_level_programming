@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print out as string in stdout 
+ * main - print out as string in stdout
  * Return: 0 if successful
- * 
+ *
  */
 
 int main(void)
