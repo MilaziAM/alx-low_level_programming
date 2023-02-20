@@ -1,13 +1,15 @@
 #include <stdio.h>
+
 /**
- * main 
- *
- *
- * return: 0 (succusseful)
+ * main - betty style doc 
+ * betty style coding
+ * Return: 0 (succusseful)
  */
+
 int main(void)
 {
 	char c;
+
 	for (c = 'a' ; c <= 'z' ; c++)
 	{
 		putchar(c);

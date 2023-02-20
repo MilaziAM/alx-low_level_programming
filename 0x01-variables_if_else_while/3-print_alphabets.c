@@ -1,11 +1,11 @@
 #include <stdio.h>
+
 /**
- * main
- *
- *
- * return: 0 (successeful)
- *
+ * main - betty style doc
+ * betty style coding
+ * return: 0 (successful)
  */
+
 int main(void)
 {
 	char c;
