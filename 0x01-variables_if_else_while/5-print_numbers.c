@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main
- *
- * return: 0 (successful)
+ * main - betty style doc
+ * betty style coding
+ * Return: 0 (successful)
  */
 
 int main(void)

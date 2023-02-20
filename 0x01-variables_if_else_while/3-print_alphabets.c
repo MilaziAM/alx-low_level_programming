@@ -3,7 +3,7 @@
 /**
  * main - betty style doc
  * betty style coding
- * return: 0 (successful)
+ * Return: 0 (successful)
  */
 
 int main(void)

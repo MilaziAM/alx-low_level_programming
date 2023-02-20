@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - betty style doc 
+ * main - betty style doc
  * betty style coding
  * Return: 0 (succusseful)
  */
