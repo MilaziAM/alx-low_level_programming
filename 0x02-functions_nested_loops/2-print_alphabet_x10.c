@@ -6,14 +6,14 @@
 
 void pint_alphabet_x10(void)
 {
-	char a;
-	int b;
+	char c;
+	int i;
 
-	for (b = 0 ; b < 10 ; b++)
+	for (i = 0 ; i < 10 ; i++)
 	{
-		for (a = 'a' ; a <= 'z' ; a++)
+		for (c = 'a' ; c <= 'z' ; c++)
 		{
-			_putchar(a);
+			_putchar(c);
 		}
 		_putchar('\n');
 	}
