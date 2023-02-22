@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * main - code
  * print_alphabet - print alphabet a to z
  * betty style
  * Return: 0 successful
