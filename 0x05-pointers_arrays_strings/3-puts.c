@@ -5,7 +5,9 @@
  * @str: the value to process to the stdout.
  */
 
-void _puts(char *str)
+void _puts(char *str);
+
+int main(void)
 {
 	while (*str > 0)
 	{
